@@ -1,0 +1,6 @@
+# Do not commit local secrets, session exports, or temporary files
+.env
+*.har
+*.pcap
+cookies.txt
+secrets.*

@@ -1,0 +1,17 @@
+Local DVWA directory discovery
+Target: http://127.0.0.1:8081/
+-------------------------------------------------------
+404  admin
+404  api
+200  robots.txt
+200  login.php
+200  index.php
+200  setup.php
+200  security.php
+200  instructions.php
+200  about.php
+200  phpinfo.php
+403  server-status
+404  uploads/
+200  config/
+404  backup/
